@@ -1,6 +1,6 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Exceptions;
+namespace HowRareIs\SolanaPhpSdk\Exceptions;
 
 class InputValidationException extends BaseSolanaPhpSdkException
 {

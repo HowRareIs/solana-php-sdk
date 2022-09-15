@@ -1,8 +1,8 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Borsh;
+namespace HowRareIs\SolanaPhpSdk\Borsh;
 
-use Tighten\SolanaPhpSdk\Exceptions\BaseSolanaPhpSdkException;
+use HowRareIs\SolanaPhpSdk\Exceptions\BaseSolanaPhpSdkException;
 
 class BorshException extends BaseSolanaPhpSdkException
 {

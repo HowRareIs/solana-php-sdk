@@ -1,9 +1,9 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Borsh;
+namespace HowRareIs\SolanaPhpSdk\Borsh;
 
-use Tighten\SolanaPhpSdk\Exceptions\TodoException;
-use Tighten\SolanaPhpSdk\Util\Buffer;
+use HowRareIs\SolanaPhpSdk\Exceptions\TodoException;
+use HowRareIs\SolanaPhpSdk\Util\Buffer;
 
 class Borsh
 {

@@ -17,7 +17,7 @@
     </include>
   </coverage>
   <testsuites>
-    <testsuite name="Tighten Test Suite">
+    <testsuite name="HowRareIs Test Suite">
       <directory>tests</directory>
     </testsuite>
   </testsuites>

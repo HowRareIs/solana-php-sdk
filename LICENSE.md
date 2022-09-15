@@ -1,5 +1,7 @@
 The MIT License (MIT)
 
+Copyright (c) HowRare.is.
+
 Copyright (c) Tighten Co. <hello@tighten.co>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

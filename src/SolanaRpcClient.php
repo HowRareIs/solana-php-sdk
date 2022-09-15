@@ -1,12 +1,12 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk;
+namespace HowRareIs\SolanaPhpSdk;
 
 use Illuminate\Http\Client\Factory as HttpFactory;
 use Illuminate\Http\Client\Response;
-use Tighten\SolanaPhpSdk\Exceptions\GenericException;
-use Tighten\SolanaPhpSdk\Exceptions\InvalidIdResponseException;
-use Tighten\SolanaPhpSdk\Exceptions\MethodNotFoundException;
+use HowRareIs\SolanaPhpSdk\Exceptions\GenericException;
+use HowRareIs\SolanaPhpSdk\Exceptions\InvalidIdResponseException;
+use HowRareIs\SolanaPhpSdk\Exceptions\MethodNotFoundException;
 
 /**
  * @see https://docs.solana.com/developing/clients/jsonrpc-api

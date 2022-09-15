@@ -1,14 +1,14 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk;
+namespace HowRareIs\SolanaPhpSdk;
 
 use ParagonIE_Sodium_Compat;
 use RangeException;
 use StephenHill\Base58;
-use Tighten\SolanaPhpSdk\Exceptions\BaseSolanaPhpSdkException;
-use Tighten\SolanaPhpSdk\Exceptions\InputValidationException;
-use Tighten\SolanaPhpSdk\Util\Buffer;
-use Tighten\SolanaPhpSdk\Util\HasPublicKey;
+use HowRareIs\SolanaPhpSdk\Exceptions\BaseSolanaPhpSdkException;
+use HowRareIs\SolanaPhpSdk\Exceptions\InputValidationException;
+use HowRareIs\SolanaPhpSdk\Util\Buffer;
+use HowRareIs\SolanaPhpSdk\Util\HasPublicKey;
 
 class PublicKey implements HasPublicKey
 {

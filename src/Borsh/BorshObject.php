@@ -1,6 +1,6 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Borsh;
+namespace HowRareIs\SolanaPhpSdk\Borsh;
 
 trait BorshObject
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Tests\Unit;
+namespace HowRareIs\SolanaPhpSdk\Tests\Unit;
 
-use Tighten\SolanaPhpSdk\Account;
-use Tighten\SolanaPhpSdk\Keypair;
-use Tighten\SolanaPhpSdk\Tests\TestCase;
-use Tighten\SolanaPhpSdk\Accounts\Metadata;
+use HowRareIs\SolanaPhpSdk\Account;
+use HowRareIs\SolanaPhpSdk\Keypair;
+use HowRareIs\SolanaPhpSdk\Tests\TestCase;
+use HowRareIs\SolanaPhpSdk\Accounts\Metadata;
 
 class MetadataTest extends TestCase
 {

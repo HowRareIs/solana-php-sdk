@@ -1,8 +1,8 @@
 {
-    "name": "tightenco/solana-php-sdk",
+    "name": "howrareis/solana-php-sdk",
     "description": "Solana PHP SDK",
     "keywords": [
-        "tightenco",
+        "howrareis",
         "solana-php-sdk",
         "blockchain",
         "solana",
@@ -10,19 +10,13 @@
         "sdk",
         "php"
     ],
-    "homepage": "https://github.com/tighten/solana-php-sdk",
+    "homepage": "https://github.com/howrareis/solana-php-sdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "Matt Stauffer",
-            "email": "matt@tighten.co",
-            "homepage": "https://tighten.co",
-            "role": "Developer"
-        },
-        {
-            "name": "Zach Vander Velden",
-            "email": "zachvv11@gmail.com",
-            "homepage": "https://zachvv.me",
+            "name": "SadMouse",
+            "email": "solsadmouse@pm.me",
+            "homepage": "https://howrare.is",
             "role": "Developer"
         }
     ],
@@ -44,12 +38,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Tighten\\SolanaPhpSdk\\": "src"
+            "HowRareIs\\SolanaPhpSdk\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tighten\\SolanaPhpSdk\\Tests\\": "tests"
+            "HowRareIs\\SolanaPhpSdk\\Tests\\": "tests"
         }
     },
     "scripts": {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Tests\Feature;
+namespace HowRareIs\SolanaPhpSdk\Tests\Feature;
 
-use Tighten\SolanaPhpSdk\SolanaRpcClient;
-use Tighten\SolanaPhpSdk\Tests\TestCase;
+use HowRareIs\SolanaPhpSdk\SolanaRpcClient;
+use HowRareIs\SolanaPhpSdk\Tests\TestCase;
 
 class SolanaRpcClientTest extends TestCase
 {

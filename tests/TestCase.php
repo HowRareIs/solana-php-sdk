@@ -1,6 +1,6 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Tests;
+namespace HowRareIs\SolanaPhpSdk\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 

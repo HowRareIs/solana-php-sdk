@@ -1,8 +1,8 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Util;
+namespace HowRareIs\SolanaPhpSdk\Util;
 
-use Tighten\SolanaPhpSdk\PublicKey;
+use HowRareIs\SolanaPhpSdk\PublicKey;
 
 class AccountMeta implements HasPublicKey
 {

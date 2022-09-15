@@ -1,9 +1,9 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk;
+namespace HowRareIs\SolanaPhpSdk;
 
-use Tighten\SolanaPhpSdk\Util\AccountMeta;
-use Tighten\SolanaPhpSdk\Util\Buffer;
+use HowRareIs\SolanaPhpSdk\Util\AccountMeta;
+use HowRareIs\SolanaPhpSdk\Util\Buffer;
 
 class TransactionInstruction
 {

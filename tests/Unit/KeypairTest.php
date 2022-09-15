@@ -1,10 +1,10 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Tests\Unit;
+namespace HowRareIs\SolanaPhpSdk\Tests\Unit;
 
-use Tighten\SolanaPhpSdk\Keypair;
-use Tighten\SolanaPhpSdk\Tests\TestCase;
-use Tighten\SolanaPhpSdk\Util\Buffer;
+use HowRareIs\SolanaPhpSdk\Keypair;
+use HowRareIs\SolanaPhpSdk\Tests\TestCase;
+use HowRareIs\SolanaPhpSdk\Util\Buffer;
 
 class KeypairTest extends TestCase
 {

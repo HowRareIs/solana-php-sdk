@@ -1,9 +1,9 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Accounts;
+namespace HowRareIs\SolanaPhpSdk\Accounts;
 
-use Tighten\SolanaPhpSdk\Borsh\Borsh;
-use Tighten\SolanaPhpSdk\Borsh\BorshDeserializable;
+use HowRareIs\SolanaPhpSdk\Borsh\Borsh;
+use HowRareIs\SolanaPhpSdk\Borsh\BorshDeserializable;
 
 class Metadata
 {

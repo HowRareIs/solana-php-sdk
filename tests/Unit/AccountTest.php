@@ -1,10 +1,10 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Tests\Unit;
+namespace HowRareIs\SolanaPhpSdk\Tests\Unit;
 
-use Tighten\SolanaPhpSdk\Account;
-use Tighten\SolanaPhpSdk\Keypair;
-use Tighten\SolanaPhpSdk\Tests\TestCase;
+use HowRareIs\SolanaPhpSdk\Account;
+use HowRareIs\SolanaPhpSdk\Keypair;
+use HowRareIs\SolanaPhpSdk\Tests\TestCase;
 
 class AccountTest extends TestCase
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Util;
+namespace HowRareIs\SolanaPhpSdk\Util;
 
-use Tighten\SolanaPhpSdk\TransactionInstruction;
+use HowRareIs\SolanaPhpSdk\TransactionInstruction;
 
 class NonceInformation
 {

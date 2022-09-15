@@ -1,10 +1,10 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk;
+namespace HowRareIs\SolanaPhpSdk;
 
-use Tighten\SolanaPhpSdk\Util\Buffer;
-use Tighten\SolanaPhpSdk\Util\HasPublicKey;
-use Tighten\SolanaPhpSdk\Util\HasSecretKey;
+use HowRareIs\SolanaPhpSdk\Util\Buffer;
+use HowRareIs\SolanaPhpSdk\Util\HasPublicKey;
+use HowRareIs\SolanaPhpSdk\Util\HasSecretKey;
 
 class Account implements HasPublicKey, HasSecretKey
 {

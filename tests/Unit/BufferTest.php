@@ -1,13 +1,13 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Tests\Unit;
+namespace HowRareIs\SolanaPhpSdk\Tests\Unit;
 
-use Tighten\SolanaPhpSdk\Account;
-use Tighten\SolanaPhpSdk\Keypair;
-use Tighten\SolanaPhpSdk\Programs\SystemProgram;
-use Tighten\SolanaPhpSdk\PublicKey;
-use Tighten\SolanaPhpSdk\Tests\TestCase;
-use Tighten\SolanaPhpSdk\Util\Buffer;
+use HowRareIs\SolanaPhpSdk\Account;
+use HowRareIs\SolanaPhpSdk\Keypair;
+use HowRareIs\SolanaPhpSdk\Programs\SystemProgram;
+use HowRareIs\SolanaPhpSdk\PublicKey;
+use HowRareIs\SolanaPhpSdk\Tests\TestCase;
+use HowRareIs\SolanaPhpSdk\Util\Buffer;
 
 class BufferTest extends TestCase
 {

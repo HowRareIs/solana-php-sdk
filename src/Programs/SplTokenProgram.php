@@ -1,8 +1,8 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Programs;
+namespace HowRareIs\SolanaPhpSdk\Programs;
 
-use Tighten\SolanaPhpSdk\Program;
+use HowRareIs\SolanaPhpSdk\Program;
 
 class SplTokenProgram extends Program
 {

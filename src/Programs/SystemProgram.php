@@ -1,12 +1,12 @@
 <?php
 
-namespace Tighten\SolanaPhpSdk\Programs;
+namespace HowRareIs\SolanaPhpSdk\Programs;
 
-use Tighten\SolanaPhpSdk\Exceptions\AccountNotFoundException;
-use Tighten\SolanaPhpSdk\Program;
-use Tighten\SolanaPhpSdk\PublicKey;
-use Tighten\SolanaPhpSdk\TransactionInstruction;
-use Tighten\SolanaPhpSdk\Util\AccountMeta;
+use HowRareIs\SolanaPhpSdk\Exceptions\AccountNotFoundException;
+use HowRareIs\SolanaPhpSdk\Program;
+use HowRareIs\SolanaPhpSdk\PublicKey;
+use HowRareIs\SolanaPhpSdk\TransactionInstruction;
+use HowRareIs\SolanaPhpSdk\Util\AccountMeta;
 
 class SystemProgram extends Program
 {
